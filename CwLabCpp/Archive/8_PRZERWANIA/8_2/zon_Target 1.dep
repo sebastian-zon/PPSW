@@ -1,0 +1,15 @@
+Dependencies for Project 'zon', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x681DF9D9)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.c)(0x681F1881)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\apps\keil_arm\ARM\Inc\Philips\LPC21xx.H)(0x00000000)
+I (C:\Users\student\Desktop\CwLabCpp\Current\led.h)(0x681DF9D9)
+F (.\led.c)(0x681DF9DA)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (C:\apps\keil_arm\ARM\Inc\Philips\LPC21xx.H)(0x00000000)
+I (C:\Users\student\Desktop\CwLabCpp\Current\led.h)(0x681DF9D9)
+F (.\keyboard.c)(0x681DF9DA)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\keyboard.o --omf_browse .\keyboard.crf --depend .\keyboard.d)
+I (C:\apps\keil_arm\ARM\Inc\Philips\LPC21xx.H)(0x00000000)
+I (C:\Users\student\Desktop\CwLabCpp\Current\keyboard.h)(0x681DF9D9)
+F (.\timer.c)(0x681DF9D8)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\timer.o --omf_browse .\timer.crf --depend .\timer.d)
+I (C:\apps\keil_arm\ARM\Inc\Philips\LPC21xx.H)(0x00000000)
+I (C:\Users\student\Desktop\CwLabCpp\Current\timer.h)(0x681DF9D8)
+F (.\timer.h)(0x681DF9D8)()

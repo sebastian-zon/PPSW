@@ -1,0 +1,4 @@
+Dependencies for Project 'konwersje', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x67ED2A1A)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\apps\keil_arm\ARM\RV31\INC-I C:\apps\keil_arm\ARM\CMSIS\Include-I C:\apps\keil_arm\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.c)(0x67ED2A19)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\apps\keil_arm\ARM\RV31\INC-I C:\apps\keil_arm\ARM\CMSIS\Include-I C:\apps\keil_arm\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x00000000)
